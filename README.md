@@ -49,6 +49,6 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 ## 项目部分截图
 ![image](https://github.com/guo11111/vue2-demo/blob/master/static/images/img1.png)
 ![image](https://github.com/guo11111/vue2-demo/blob/master/static/images/img2.jpg)
-![image](https://github.com/guo11111/vue2-demo/blob/master/static/images/img3.jpg)
-![image](https://github.com/guo11111/vue2-demo/blob/master/static/images/img4.jpg)
+![image](https://github.com/guo11111/vue2-demo/blob/master/static/images/img3.png)
+![image](https://github.com/guo11111/vue2-demo/blob/master/static/images/img4.png)
 
