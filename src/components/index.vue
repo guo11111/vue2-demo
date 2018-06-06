@@ -81,4 +81,5 @@ export default {
     border-right: none;}
   .el-menu-vertical-back{text-align: left;min-height: 100%;}
   .is-active{background-color: #353131 !important;}
+  .el-submenu .el-menu-item {min-width: 50px !important;}
 </style>
