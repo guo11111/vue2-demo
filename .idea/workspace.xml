@@ -24,7 +24,7 @@
       <file leaf-file-name="dataList.vue" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/dataList.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2332">
+            <state>
               <caret line="108" column="8" selection-start-line="108" selection-start-column="8" selection-end-line="108" selection-end-column="8" />
             </state>
           </provider>
@@ -44,11 +44,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="538">
-              <caret line="52" column="81" selection-start-line="52" selection-start-column="81" selection-end-line="52" selection-end-column="81" />
+            <state relative-caret-position="220">
+              <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -56,17 +56,8 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="53" selection-start-line="53" selection-end-line="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dist/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="117" selection-start-column="117" selection-end-column="117" />
+            <state relative-caret-position="462">
+              <caret line="54" column="7" lean-forward="true" selection-start-line="54" selection-start-column="7" selection-end-line="54" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -178,8 +169,8 @@
         <option value="$PROJECT_DIR$/src/components/edite.vue" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/components/index.vue" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/config/index.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -191,12 +182,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/node_modules" />
-  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="307" />
-    <option name="y" value="477" />
+    <option name="x" value="216" />
+    <option name="y" value="301" />
     <option name="width" value="1332" />
     <option name="height" value="891" />
   </component>
@@ -217,17 +205,6 @@
               <item name="vue-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="vue-demo" type="462c0819:PsiDirectoryNode" />
               <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vue-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vue-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vue-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vue-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="vue-demo" type="b2602c69:ProjectViewProjectNode" />
@@ -367,15 +344,15 @@
       <workItem from="1528076717889" duration="34860000" />
       <workItem from="1528180662676" duration="3781000" />
       <workItem from="1528250333635" duration="4901000" />
-      <workItem from="1528257289230" duration="2774000" />
+      <workItem from="1528257289230" duration="2833000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86954000" />
+    <option name="totallyTimeSpent" value="87013000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="307" y="477" width="1332" height="891" extended-state="0" />
+    <frame x="216" y="301" width="1332" height="891" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="3" sideWeight="0.8396226" visible="true" weight="0.30061823" />
@@ -728,7 +705,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/dataList.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2332">
+        <state>
           <caret line="108" column="8" selection-start-line="108" selection-start-column="8" selection-end-line="108" selection-end-column="8" />
         </state>
       </provider>
@@ -769,24 +746,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="52" column="81" selection-start-line="52" selection-start-column="81" selection-end-line="52" selection-end-column="81" />
+        <state>
+          <caret column="117" selection-start-column="117" selection-end-column="117" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        <state relative-caret-position="462">
+          <caret line="54" column="7" lean-forward="true" selection-start-line="54" selection-start-column="7" selection-end-line="54" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/index.html">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="117" selection-start-column="117" selection-end-column="117" />
+        <state relative-caret-position="220">
+          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
         </state>
       </provider>
     </entry>
