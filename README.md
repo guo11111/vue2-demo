@@ -47,7 +47,8 @@ npm test
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 ## 项目部分截图
-[图片]
-[图片]
-[图片]
-[图片]
+![image](https://github.com/guo11111/vue2-demo/blob/master/static/images/img1.png)
+![image](https://github.com/guo11111/vue2-demo/blob/master/static/images/img2.jpg)
+![image](https://github.com/guo11111/vue2-demo/blob/master/static/images/img3.jpg)
+![image](https://github.com/guo11111/vue2-demo/blob/master/static/images/img4.jpg)
+
